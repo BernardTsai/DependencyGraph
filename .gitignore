@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# specific results
+test-1.yaml
+test-2.yaml
+test-3.yaml
+test-4.puml

@@ -1,0 +1,28 @@
+{
+  "name": "dependencygraph",
+  "version": "1.0.0",
+  "description": "PoC kpt function to derive dependency information from packages",
+  "main": "src/dependencyGraph.js",
+  "scripts": {
+    "test": "demo.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BernardTsai/DependencyGraph.git"
+  },
+  "keywords": [
+    "kpt",
+    "dependency",
+    "graph",
+    "PoC"
+  ],
+  "author": "Bernard@tsai.eu",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/BernardTsai/DependencyGraph/issues"
+  },
+  "homepage": "https://github.com/BernardTsai/DependencyGraph#readme",
+  "dependencies": {
+    "yaml": "^2.3.4"
+  }
+}
